@@ -1,0 +1,7 @@
+Tanto la Programación Tradicional como la Programación Orientada a Objetos (POO)
+son enfoques válidos para resolver el problema de calcular el promedio de
+temperaturas semanales. La elección entre uno u otro depende de factores
+como la complejidad del problema, la necesidad de extensibilidad y la preferencia
+personal del desarrollador. La solución POO puede ofrecer una mayor modularidad,
+encapsulamiento y reutilización del código, lo que puede facilitar el mantenimiento
+y la extensión del sistema a medida que evoluciona.
